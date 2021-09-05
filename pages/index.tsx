@@ -95,10 +95,10 @@ const IndexPage = ({ robes, lastUpdate }: Props) => {
           </a>
 
       </p>
-      <h1 className="text-lg md:text-3xl">Top 500 Rarity</h1>
+      <h1 className="text-lg md:text-3xl">Top 100 Rarity</h1>
       <div className="text-center max-w-screen-md md:leading-loose">
         <p className="md:text-xl">
-          There are {robes.length} <strong>top 500 rares</strong> on sale. The floor
+          There are {robes.length} <strong>top 100 rares</strong> on sale. The floor
           price is {robes[0].price} ETH.        
         </p>
         <p className="md:text-lg pt-2">
