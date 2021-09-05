@@ -34,10 +34,10 @@ const Robe = ({ robe }: { robe: RobeInfo }) => {
 const IndexPage = ({ robes, lastUpdate }: Props) => {
   return (
     <div className="py-3 md:pb-0 font-mono flex flex-col justify-center items-center gap-4 pt-10 md:w-screen">
-      <h1 className="text-lg md:text-3xl">Designer Hoodie Gang</h1>
+      <h1 className="text-lg md:text-3xl">Holo Hands Gang</h1>
       <div className="text-center max-w-screen-md md:leading-loose">
         <p className="md:text-xl">
-          There are {robes.length} Gear Stash's for sale with Punk <strong>Designer Hoodies</strong>. The floor
+          There are {robes.length} Gear Stash's for sale with Punk <strong>Holo Hands</strong>. The floor
           price is {robes[0].price} ETH.
         </p>
         <p className="md:text-lg pt-2">
