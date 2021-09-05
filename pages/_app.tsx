@@ -27,7 +27,7 @@ function Robes({ Component, pageProps }) {
         <link rel="icon" type="image/png" href="/favicon.png" />
         <meta
           property="og:description"
-          content="See the floor price of Hoodies from the Gear (for Punks) project."
+          content="See the floor price of Gear (for Punks) project."
         />
         <meta property="og:image" content="https://punkaf.market/og.png" />
         <script
