@@ -44,8 +44,8 @@ const IndexPage = ({ robes, lastUpdate }: Props) => {
             Rare AF
           </a>
           
-           |  
-           
+          | 
+          
           <a
             target="_self"
             href="https://1337.punkaf.market/"
@@ -54,7 +54,7 @@ const IndexPage = ({ robes, lastUpdate }: Props) => {
             +1 Elite Gear
           </a>
           
-           |  
+          | 
           
           <a
             target="_self"
@@ -64,7 +64,7 @@ const IndexPage = ({ robes, lastUpdate }: Props) => {
             Hoodie Gang
           </a>
           
-           |  
+          | 
           
           <a
             target="_self"
@@ -74,8 +74,8 @@ const IndexPage = ({ robes, lastUpdate }: Props) => {
             Holo Hands
           </a>
           
-           |  
-          
+          | 
+
           <a
             target="_self"
             href="https://katanas.punkaf.market/"
@@ -83,8 +83,8 @@ const IndexPage = ({ robes, lastUpdate }: Props) => {
           >
             Katanas
           </a>
-           
-           |  
+          
+          | 
           
           <a
             target="_self"
