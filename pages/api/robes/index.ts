@@ -26,7 +26,7 @@ const fetchRobePage = async (ids: string[]) => {
         ...asset,
         image_url: await rarityImage(asset.token_metadata, {
           colorFn: ({ itemName }) =>
-            itemName.toLowerCase().includes('hoodie') && 'cyan',
+            itemName.toLowerCase().includes('holo hands') && 'cyan',
         }),
       }
     }),
