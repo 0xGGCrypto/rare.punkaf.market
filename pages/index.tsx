@@ -41,7 +41,7 @@ const IndexPage = ({ robes, lastUpdate }: Props) => {
             href="https://rare.punkaf.market/"
             className="underline"
           >
-            Rare AF
+            Rare AF 
           </a>
           
           | 
@@ -51,7 +51,7 @@ const IndexPage = ({ robes, lastUpdate }: Props) => {
             href="https://1337.punkaf.market/"
             className="underline"
           >
-            +1 Elite Gear
+            +1 Elite Gear 
           </a>
           
           | 
@@ -61,7 +61,7 @@ const IndexPage = ({ robes, lastUpdate }: Props) => {
             href="https://hoodies.punkaf.market/"
             className="underline"
           >
-            Hoodie Gang
+            Hoodie Gang 
           </a>
           
           | 
@@ -71,7 +71,7 @@ const IndexPage = ({ robes, lastUpdate }: Props) => {
             href="https://holo.punkaf.market/"
             className="underline"
           >
-            Holo Hands
+            Holo Hands 
           </a>
           
           | 
@@ -81,7 +81,7 @@ const IndexPage = ({ robes, lastUpdate }: Props) => {
             href="https://katanas.punkaf.market/"
             className="underline"
           >
-            Katanas
+            Katanas 
           </a>
           
           | 
@@ -91,7 +91,7 @@ const IndexPage = ({ robes, lastUpdate }: Props) => {
             href="https://ar.punkaf.market/"
             className="underline"
           >
-            Assault Rifles
+            Assault Rifles 
           </a>
 
       </p>
