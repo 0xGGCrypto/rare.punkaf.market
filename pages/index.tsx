@@ -118,7 +118,7 @@ const IndexPage = ({ robes, lastUpdate }: Props) => {
           >
             GGCrypto
           </a>
-          .
+          .  Special thanks to Toomaie for rarity list!
         </p>
         <p className="text-sm mv-4">Last updated {ts(lastUpdate)}</p>
       </div>
